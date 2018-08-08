@@ -1,5 +1,7 @@
 package day_1;
 
+import javax.imageio.stream.ImageOutputStream;
+
 class Array {
 	public static void main(String[] args) {
 		// Create n
@@ -7,7 +9,7 @@ class Array {
 		
 		// Create and initialize an array
 		int[] a = new int[n];
-		
+
 		// FOR //
 		
 		// Fill the array
